@@ -32,8 +32,8 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 
 ### Screenshot
 
-<img src="./assets/screenshot.png">
-<img height="450px" src="./assets/screenshot-2.png">
+<img src="https://user-images.githubusercontent.com/59930625/207266072-094cba61-caa8-4c36-94d5-3d32becbfd9a.png" alt="screenshot">
+<img height="450px" src="https://user-images.githubusercontent.com/59930625/207266088-a20b46d0-75ec-428d-bb25-24f4d879ff00.png" alt="screenshot-2">
 
 ### Links
 
